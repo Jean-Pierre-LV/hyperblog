@@ -3,3 +3,5 @@ Mi nombre es JP
 Doctorando en Ingenieria Electrica
 
 Los estudios que realizo son en el área de Inteligencia artificial
+
+Otra area de interes también es Robotica
